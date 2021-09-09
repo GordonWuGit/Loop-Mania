@@ -12,7 +12,8 @@ Features include:
 - Placing Buildings
 
 ## Main World
-![image](https://user-images.githubusercontent.com/26986632/132678248-42885cd5-738d-4daf-9257-cb3bf552ef6e.png)
-
+![image](https://user-images.githubusercontent.com/26986632/132678399-07081b1a-14b7-46db-a75c-165f5976ea47.png)
 ## Battle
+![image](https://user-images.githubusercontent.com/26986632/132678512-1027c155-5315-4e24-ba90-4eb55d09f1dc.png)
+
 [**Link to specification**](https://gitlab.cse.unsw.edu.au/COMP2511/21T2/project-specification)
